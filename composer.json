@@ -1,27 +1,28 @@
 {
-    "name": "arielmejiadev/json-api-auth",
-    "description": "It adds authentication scaffold for api authentication by tokens for packages like Passport or Sanctum.",
+    "name": "jalmirante/json-api-auth",
+    "description": "Paquete JSON API AUTH for Laravel de Ariel Mejia Dev con soporte para Laravel 10.",
     "keywords": [
+        "jalmirante",
         "arielmejiadev",
         "json-api-auth"
     ],
-    "homepage": "https://github.com/arielmejiadev/json-api-auth",
+    "homepage": "https://github.com/jalmirante/json-api-auth",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Ariel Mejia Dev",
-            "email": "arielmejiadev@gmail.com",
-            "role": "Developer"
+            "name": "Jesús Almirante Laurente",
+            "email": "jalmirante@hardata.cl",
+            "role": "Desarrollador"
         }
     ],
     "require": {
         "php": "^7.4|^8.0",
-        "illuminate/support": "^6.0|^7.0|^8.0|^9.0"
+        "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0"
     },
     "require-dev": {
-        "orchestra/testbench": "^4.0|^5.0|^6.0",
-        "phpunit/phpunit": "^8.0|^9.0"
+        "orchestra/testbench": "^4.0|^5.0|^6.0|^8.0",
+        "phpunit/phpunit": "^8.0|^9.0|^10.0"
     },
     "autoload": {
         "psr-4": {

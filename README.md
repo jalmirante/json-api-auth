@@ -16,7 +16,7 @@ To learn all about it, head over to <a href="https://json-api-auth.netlify.app/"
 You can install the package via composer:
 
 ```bash
-composer require arielmejiadev/json-api-auth --dev
+composer require jalmirante/json-api-auth --dev
 ```
 
 ## 📦 Usage
